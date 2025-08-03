@@ -25,6 +25,11 @@ These projects span a variety of topics, including:
 - Database Systems  
 - Digital Systems and Foundations of Electronics  
 - Universal Programming Techniques  
-- Computer Networks and Network Programming in Java  
+- Computer Networks and Network Programming in Java
+- Artificial Intelligence Tools
+- Fundamentals of Python Programming
+- Information Systems Design
+- Foundations of Computer Simulations
+- Database Applications
 
 
