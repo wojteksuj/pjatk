@@ -31,5 +31,8 @@ These projects span a variety of topics, including:
 - Information Systems Design
 - Foundations of Computer Simulations
 - Database Applications
+- Computer Graphics
+- Software Engineering
+- Information Systems Security
 
 
